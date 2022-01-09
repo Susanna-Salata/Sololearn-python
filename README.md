@@ -2,6 +2,12 @@
 
 My self-education tasks
 
+## Spelling Backwards
+
+Given a string as input, use recursion to output each letter of the strings in reverse order, on a new line.
+Sample Input
+HELLO WORLD https://github.com/Susanna-Salata/Sololearn-python/blob/main/recursive%20function.py
+
 ## Shooting Game
 You are creating a shooting game!
 The game has two types of enemies, aliens and monsters. You shoot the aliens using your laser, and monsters using your gun.
