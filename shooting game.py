@@ -25,18 +25,22 @@ class Alien(Enemy):
     def __init__(self):
         super().__init__('Alien', 5)
 
+def main():
 
-m = Monster()
-a = Alien()
+    m = Monster()
+    a = Alien()
 
-while True:
-    x = input('Please select from "laser", "gun", "exit" ')
-    if x == 'exit':
-        break
-    elif x == 'laser':
-        a.hit()
-    elif x == 'gun':
-        m.hit()
-    else:
-        print('Incorrect input. Please select from "laser", "gun", "exit"')
+    while True:
+        x = input('Please select from "laser", "gun", "exit" ')
+        if x == 'exit':
+            break
+        elif x == 'laser':
+            a.hit()
+        elif x == 'gun':
+            m.hit()
+        else:
+            print('Incorrect input. Please select from "laser", "gun", "exit"')
 
+
+if __name__ == "__main__":
+    main()
