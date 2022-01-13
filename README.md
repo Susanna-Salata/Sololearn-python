@@ -3,12 +3,20 @@
 My self-education tasks
 
 ## Spelling Backwards
-
 Given a string as input, use recursion to output each letter of the strings in reverse order, on a new line.
 
 Sample Input
-
 HELLO WORLD https://github.com/Susanna-Salata/Sololearn-python/blob/main/recursive%20function.py
+
+
+## Letter Counter
+Given a string as input, you need to output how many times each letter appears in the string.
+You decide to store the data in a dictionary, with the letters as the keys, and the corresponding counts as the values.
+Create a program to take a string as input and output a dictionary, which represents the letter count.
+
+Sample Input
+HELLO WORLD https://github.com/Susanna-Salata/Sololearn-python/blob/main/letter%20counter.py
+
 
 ## Shooting Game
 You are creating a shooting game!
