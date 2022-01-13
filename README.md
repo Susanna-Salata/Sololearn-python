@@ -36,6 +36,28 @@ Sample Input:
 6 https://github.com/Susanna-Salata/Sololearn-python/blob/main/fibonacci.py
 
 
+## Phone Number Validator
+You are given a number input, and need to check if it is a valid phone number.
+A valid phone number has exactly 8 digits and starts with 1, 8 or 9.
+Output "Valid" if the number is valid and "Invalid", if it is not.
+
+Sample Input:
+81239870 https://github.com/Susanna-Salata/Sololearn-python/blob/main/phone%20number%20validator.py
+
+
+## Adding Words
+You need to write a function that takes multiple words as its argument and returns a concatenated version of those words separated by dashes (-).
+The function should be able to take a varying number of words as the argument.
+
+Sample Input:
+this
+is
+great
+
+Sample Output:
+this-is-great https://github.com/Susanna-Salata/Sololearn-python/blob/main/adding%20words.py
+
+
 ## Juice Maker
 You are given a Juice class, which has name and capacity properties.
 You need to complete the code to enable and adding of two Juice objects, resulting in a new Juice object with the combined capacity and names of the two juices being added.
