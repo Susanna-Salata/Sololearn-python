@@ -2,10 +2,17 @@
 
 My self-education tasks
 
+## Longest Word
+Given a text as input, find and output the longest word.
+
+Sample Input:
+this is an awesome text https://github.com/Susanna-Salata/Sololearn-python/blob/main/longest%20word.py
+
+
 ## Spelling Backwards
 Given a string as input, use recursion to output each letter of the strings in reverse order, on a new line.
 
-Sample Input
+Sample Input:
 HELLO WORLD https://github.com/Susanna-Salata/Sololearn-python/blob/main/recursive%20function.py
 
 
@@ -14,8 +21,29 @@ Given a string as input, you need to output how many times each letter appears i
 You decide to store the data in a dictionary, with the letters as the keys, and the corresponding counts as the values.
 Create a program to take a string as input and output a dictionary, which represents the letter count.
 
-Sample Input
+Sample Input:
 HELLO WORLD https://github.com/Susanna-Salata/Sololearn-python/blob/main/letter%20counter.py
+
+
+## Fibonacci
+The Fibonacci sequence is one of the most famous formulas in mathematics.
+Each number in the sequence is the sum of the two numbers that precede it.
+For example, here is the Fibonacci sequence for 10 numbers, starting from 0: 0,1,1,2,3,5,8,13,21,34.
+
+Write a program to take N (variable num in code template) positive numbers as input, and recursively calculate and output the first N numbers of the Fibonacci sequence (starting from 0).
+
+Sample Input:
+6 https://github.com/Susanna-Salata/Sololearn-python/blob/main/fibonacci.py
+
+
+## Juice Maker
+You are given a Juice class, which has name and capacity properties.
+You need to complete the code to enable and adding of two Juice objects, resulting in a new Juice object with the combined capacity and names of the two juices being added.
+For example, if you add an Orange juice with 1.0 capacity and an Apple juice with 2.5 capacity, the resulting juice should have:
+name: Orange&Apple
+capacity: 3.5
+
+The names have been combined using an & symbol. https://github.com/Susanna-Salata/Sololearn-python/blob/main/juice%20maker.py 
 
 
 ## Shooting Game
