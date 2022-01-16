@@ -67,7 +67,6 @@ capacity: 3.5
 
 The names have been combined using an & symbol. https://github.com/Susanna-Salata/Sololearn-python/blob/main/juice%20maker.py 
 
-
 ## Shooting Game
 You are creating a shooting game!
 The game has two types of enemies, aliens and monsters. You shoot the aliens using your laser, and monsters using your gun.
@@ -84,4 +83,12 @@ laser
 gun
 exit
 https://github.com/Susanna-Salata/Sololearn-python/blob/main/shooting%20game.py
+
+
+## Title Encoder
+
+You are given a file named "books.txt" with book titles, each on a separate line.
+To encode the book titles you need to take the first letters of each word in the title and combine them.
+
+For example, for the book title "Game of Thrones" the encoded version should be "GoT".  
 
