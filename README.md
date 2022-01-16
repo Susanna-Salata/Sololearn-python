@@ -90,5 +90,6 @@ https://github.com/Susanna-Salata/Sololearn-python/blob/main/shooting%20game.py
 You are given a file named "books.txt" with book titles, each on a separate line.
 To encode the book titles you need to take the first letters of each word in the title and combine them.
 
-For example, for the book title "Game of Thrones" the encoded version should be "GoT".  
+For example, for the book title "Game of Thrones" the encoded version should be "GoT".  https://github.com/Susanna-Salata/Sololearn-python/blob/main/title%20encoder.py
+
 
