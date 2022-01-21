@@ -1,4 +1,4 @@
-
+# Python Core
 def spell(txt):
 
     if len(txt) == 0:

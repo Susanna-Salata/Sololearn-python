@@ -1,3 +1,4 @@
+# Python Core
 text = input()
 dict = {}
 

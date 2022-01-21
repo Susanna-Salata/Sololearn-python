@@ -1,3 +1,4 @@
+# Python Core
 class Enemy:
     name = ""
     lives = 0

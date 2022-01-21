@@ -1,3 +1,4 @@
+# Python Core
 class Juice:
     def __init__(self, name, capacity):
         self.name = name

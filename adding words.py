@@ -1,3 +1,4 @@
+# Python Core
 def concatenate(*args):
     text = args[0]
     for a in args[1:]:

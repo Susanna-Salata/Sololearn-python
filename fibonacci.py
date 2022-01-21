@@ -1,3 +1,4 @@
+# Python Core
 num = int(input())
 
 
