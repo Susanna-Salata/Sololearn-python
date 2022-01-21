@@ -109,7 +109,7 @@ The data you are given is in a dictionary format, where the keys are the sold ti
 For example, "123-08": 24 means that the ticket was bought a 24 year old.
 Your goal is to calculate how much more money the office would make if it would change the ticket discount age to the given input.
 So, your program needs to take an integer as input and output the percentage of revenue growth, if the discount was given to people under that age.
-
+https://github.com/Susanna-Salata/Sololearn-python/blob/main/ticket%20office.py
 
 
 ## Basketball Players
