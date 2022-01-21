@@ -19,3 +19,4 @@ for value in data.values():
 result = int((revenue_new-revenue_basic)/revenue_basic*100)
 
 print(result)
+
