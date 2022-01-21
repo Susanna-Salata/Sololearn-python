@@ -93,3 +93,11 @@ To encode the book titles you need to take the first letters of each word in the
 For example, for the book title "Game of Thrones" the encoded version should be "GoT".  https://github.com/Susanna-Salata/Sololearn-python/blob/main/title%20encoder.py
 
 
+
+
+
+## Basketball Players
+
+The given code includes a list of heights for various basketball players.
+You need to calculate and output how many players are in the range of one standard deviation from the mean.
+
