@@ -3,20 +3,21 @@
 My self-education tasks
 
 ## Longest Word
-Given a text as input, find and output the longest word.
 
+Given a text as input, find and output the longest word.
 Sample Input:
 this is an awesome text https://github.com/Susanna-Salata/Sololearn-python/blob/main/longest%20word.py
 
 
 ## Spelling Backwards
-Given a string as input, use recursion to output each letter of the strings in reverse order, on a new line.
 
+Given a string as input, use recursion to output each letter of the strings in reverse order, on a new line.
 Sample Input:
 HELLO WORLD https://github.com/Susanna-Salata/Sololearn-python/blob/main/recursive%20function.py
 
 
 ## Letter Counter
+
 Given a string as input, you need to output how many times each letter appears in the string.
 You decide to store the data in a dictionary, with the letters as the keys, and the corresponding counts as the values.
 Create a program to take a string as input and output a dictionary, which represents the letter count.
@@ -26,6 +27,7 @@ HELLO WORLD https://github.com/Susanna-Salata/Sololearn-python/blob/main/letter%
 
 
 ## Fibonacci
+
 The Fibonacci sequence is one of the most famous formulas in mathematics.
 Each number in the sequence is the sum of the two numbers that precede it.
 For example, here is the Fibonacci sequence for 10 numbers, starting from 0: 0,1,1,2,3,5,8,13,21,34.
@@ -37,6 +39,7 @@ Sample Input:
 
 
 ## Phone Number Validator
+
 You are given a number input, and need to check if it is a valid phone number.
 A valid phone number has exactly 8 digits and starts with 1, 8 or 9.
 Output "Valid" if the number is valid and "Invalid", if it is not.
@@ -46,6 +49,7 @@ Sample Input:
 
 
 ## Adding Words
+
 You need to write a function that takes multiple words as its argument and returns a concatenated version of those words separated by dashes (-).
 The function should be able to take a varying number of words as the argument.
 
@@ -59,6 +63,7 @@ this-is-great https://github.com/Susanna-Salata/Sololearn-python/blob/main/addin
 
 
 ## Juice Maker
+
 You are given a Juice class, which has name and capacity properties.
 You need to complete the code to enable and adding of two Juice objects, resulting in a new Juice object with the combined capacity and names of the two juices being added.
 For example, if you add an Orange juice with 1.0 capacity and an Apple juice with 2.5 capacity, the resulting juice should have:
@@ -67,7 +72,9 @@ capacity: 3.5
 
 The names have been combined using an & symbol. https://github.com/Susanna-Salata/Sololearn-python/blob/main/juice%20maker.py 
 
+
 ## Shooting Game
+
 You are creating a shooting game!
 The game has two types of enemies, aliens and monsters. You shoot the aliens using your laser, and monsters using your gun.
 Each hit decreases the lives of the enemies by 1.
@@ -94,6 +101,7 @@ For example, for the book title "Game of Thrones" the encoded version should be 
 
 
 ## Average Word Length
+
 Given a sentence as input, calculate and output the average word length of that sentence.
 To calculate the average word length, you need to divide the sum of all word lengths by the number of words in the sentence.
 
@@ -126,8 +134,7 @@ Also, after checking all the parentheses, we need to check the stack to be empty
 Implement the balanced() function to return True if the parentheses in the given expression are balanced, and False if not.
 
 Sample Input:
-(a( ) eee) ) 
-
+(a( ) eee) ) https://github.com/Susanna-Salata/Sololearn-python/blob/main/balanced%20parentheses.py
 
 
 ## Basketball Players
