@@ -147,4 +147,5 @@ https://github.com/Susanna-Salata/Sololearn-python/blob/main/basketball%20player
 
 You are given an array that represents house prices.
 Calculate and output the percentage of houses that are within one standard deviation from the mean.
+https://github.com/Susanna-Salata/Sololearn-python/blob/main/house%20prices.py
 
